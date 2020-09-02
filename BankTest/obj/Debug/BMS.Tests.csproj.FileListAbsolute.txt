@@ -1,0 +1,17 @@
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\BankTest.dll
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\BankTest.pdb
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ms\source\repos\BMS\BankTest\obj\Debug\BMS.Tests.csprojAssemblyReference.cache
+C:\Users\ms\source\repos\BMS\BankTest\obj\Debug\BMS.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ms\source\repos\BMS\BankTest\obj\Debug\BMS.Tests.csproj.CopyComplete
+C:\Users\ms\source\repos\BMS\BankTest\obj\Debug\BankTest.dll
+C:\Users\ms\source\repos\BMS\BankTest\obj\Debug\BankTest.pdb
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\BMS.exe
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\BMS.pdb
+C:\Users\ms\source\repos\BMS\BankTest\bin\Debug\BMS.exe.config

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMS", "BMS\BMS.csproj", "{0C801E85-768E-40F7-B733-CD7B03EC26EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMS.Tests", "BankTest\BMS.Tests.csproj", "{3CB96907-6D6A-4789-B735-5FC2F6BEF323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C801E85-768E-40F7-B733-CD7B03EC26EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C801E85-768E-40F7-B733-CD7B03EC26EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C801E85-768E-40F7-B733-CD7B03EC26EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C801E85-768E-40F7-B733-CD7B03EC26EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB96907-6D6A-4789-B735-5FC2F6BEF323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB96907-6D6A-4789-B735-5FC2F6BEF323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB96907-6D6A-4789-B735-5FC2F6BEF323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB96907-6D6A-4789-B735-5FC2F6BEF323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB5EE9F7-3B78-47C5-B028-F8F483CD5A25}
+	EndGlobalSection
+EndGlobal
